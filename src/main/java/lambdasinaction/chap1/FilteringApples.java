@@ -71,7 +71,7 @@ public class FilteringApples{
         return result;
     }       
 
-    public static class Apple {
+    public class Apple {
         private int weight = 0;
         private String color = "";
 
